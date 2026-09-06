@@ -15,3 +15,6 @@ Work in progress.
 
 - Import/export presets
 - 
+
+- Snapshot integrity check
+- 
