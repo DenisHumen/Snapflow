@@ -12,3 +12,6 @@ Work in progress.
 - - Config file support
   - - Scheduled snapshots
     - 
+
+- Import/export presets
+- 
