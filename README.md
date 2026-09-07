@@ -54,3 +54,6 @@ Work in progress.
 
 - Windows path handling
 - 
+
+- Exit codes documented
+- 
