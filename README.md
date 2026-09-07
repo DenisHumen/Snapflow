@@ -42,3 +42,6 @@ Work in progress.
 
 - Verify command for stored hashes
 - 
+
+- Progress output with --stats
+- 
