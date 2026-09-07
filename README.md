@@ -51,3 +51,6 @@ Work in progress.
 
 - Systemd unit example
 - 
+
+- Windows path handling
+- 
