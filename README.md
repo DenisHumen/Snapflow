@@ -39,3 +39,6 @@ Work in progress.
 
 - Snapshot listing command
 - 
+
+- Verify command for stored hashes
+- 
