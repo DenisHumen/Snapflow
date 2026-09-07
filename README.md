@@ -21,3 +21,6 @@ Work in progress.
 
 - Compression level option
 - 
+
+- Remote push over SSH
+- 
