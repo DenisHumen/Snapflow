@@ -24,3 +24,6 @@ Work in progress.
 
 - Remote push over SSH
 - 
+
+- Ignore file support
+- 
