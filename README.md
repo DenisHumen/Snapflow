@@ -27,3 +27,6 @@ Work in progress.
 
 - Ignore file support
 - 
+
+- Dry-run mode
+- 
