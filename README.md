@@ -45,3 +45,6 @@ Work in progress.
 
 - Progress output with --stats
 - 
+
+- Configurable hash algorithm
+- 
