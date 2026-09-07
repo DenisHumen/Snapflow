@@ -60,3 +60,6 @@ Work in progress.
 
 - Locale-independent timestamps
 - 
+
+- Colorized terminal output
+- 
