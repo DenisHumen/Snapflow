@@ -48,3 +48,6 @@ Work in progress.
 
 - Configurable hash algorithm
 - 
+
+- Systemd unit example
+- 
