@@ -18,3 +18,6 @@ Work in progress.
 
 - Snapshot integrity check
 - 
+
+- Compression level option
+- 
