@@ -36,3 +36,6 @@ Work in progress.
 
 - Retention policy per target
 - 
+
+- Snapshot listing command
+- 
