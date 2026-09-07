@@ -63,3 +63,6 @@ Work in progress.
 
 - Colorized terminal output
 - 
+
+- JSON output for scripting
+- 
