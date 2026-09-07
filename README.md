@@ -30,3 +30,6 @@ Work in progress.
 
 - Dry-run mode
 - 
+
+- Pre and post run hooks
+- 
