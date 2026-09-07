@@ -57,3 +57,6 @@ Work in progress.
 
 - Exit codes documented
 - 
+
+- Locale-independent timestamps
+- 
